@@ -101,7 +101,7 @@
       youtubeLink: null,
       website: null,
       intervalMessages: ["https://www.31gg.tumblr.com"],
-      messageInterval: 1,
+      messageInterval: 5,
       songstats: true,
       commandLiteral: "!",
       blacklists: {
