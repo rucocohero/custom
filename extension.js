@@ -55,7 +55,7 @@
       startupVolume: 0, // 0-100
       startupEmoji: false, // true or false
       autowoot: true,
-      autoskip: false,
+      autoskip: true,
       smartSkip: true,
       cmdDeletion: true,
       maximumAfk: 120,
@@ -72,7 +72,7 @@
       voteSkipLimit: 6,
       historySkip: false,
       timeGuard: true,
-      maximumSongLength: 6,
+      maximumSongLength: 7,
       autodisable: false,
       commandCooldown: 30,
       usercommandsEnabled: true,
