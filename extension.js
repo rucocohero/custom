@@ -68,7 +68,7 @@
       maximumLocktime: 10,
       cycleGuard: true,
       maximumCycletime: 10,
-      voteSkip: false,
+      voteSkip: true,
       voteSkipLimit: 3,
       historySkip: false,
       timeGuard: true,
