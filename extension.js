@@ -100,8 +100,8 @@
       fbLink: null,
       youtubeLink: null,
       website: null,
-      intervalMessages: ["https://www.31gg.tumblr.com",],
-      messageInterval: 15,
+      intervalMessages: ["https://www.31gg.tumblr.com"],
+      messageInterval: 3,
       songstats: true,
       commandLiteral: "!",
       blacklists: {
