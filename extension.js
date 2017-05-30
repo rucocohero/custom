@@ -69,7 +69,7 @@
       cycleGuard: true,
       maximumCycletime: 10,
       voteSkip: false,
-      voteSkipLimit: 10,
+      voteSkipLimit: 6,
       historySkip: false,
       timeGuard: true,
       maximumSongLength: 6,
