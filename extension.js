@@ -69,7 +69,7 @@
       cycleGuard: true,
       maximumCycletime: 10,
       voteSkip: true,
-      voteSkipLimit: 6,
+      voteSkipLimit: 5,
       historySkip: false,
       timeGuard: true,
       maximumSongLength: 7,
@@ -101,7 +101,7 @@
       youtubeLink: null,
       website: null,
       intervalMessages: ["https://www.31gg.tumblr.com"],
-      messageInterval: 5,
+      messageInterval: 7,
       songstats: true,
       commandLiteral: "!",
       blacklists: {
