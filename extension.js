@@ -46,7 +46,7 @@
     //Change the bots default settings and make sure they are loaded on launch
 
     localStorage.setItem("basicBotsettings", JSON.stringify({
-      botName: "Kollgah der BOT",
+      botName: "Kollegah der BOT",
       language: "english",
       chatLink: "https://rawgit.com/basicBot/source/master/lang/en.json",
       scriptLink: "https://rawgit.com/basicBot/source/master/basicBot.js",
@@ -72,7 +72,7 @@
       voteSkipLimit: 5,
       historySkip: false,
       timeGuard: true,
-      maximumSongLength: 7,
+      maximumSongLength: 6,
       autodisable: false,
       commandCooldown: 30,
       usercommandsEnabled: true,
@@ -100,7 +100,7 @@
       fbLink: null,
       youtubeLink: null,
       website: null,
-      intervalMessages: ["https://www.31gg.tumblr.com"],
+      intervalMessages: ["https://31gg.tumblr.com"],
       messageInterval: 7,
       songstats: true,
       commandLiteral: "!",
