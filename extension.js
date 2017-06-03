@@ -19,7 +19,7 @@
         //Extend the bot here, either by calling another function or here directly.
 
         // You can add more spam words to the bot.
-        var spamWords = ['spam1', 'spam2', 'spam3', 'spam4'];
+        var spamWords = ['psypark', 'psy', 'https://plug.dj/psypark', 'spam4'];
         for (var i = 0; i < spamWords.length; i++) {
           window.bot.chatUtilities.spam.push(spamWords[i]);
         }
@@ -88,7 +88,7 @@
       ],
       afkpositionCheck: 15,
       afkRankCheck: "ambassador",
-      motdEnabled: true,
+      motdEnabled: false,
       motdInterval: 5,
       motd: "Ex-Rabbi aber noch gay!:HERO, ich bin nicht Kay der sich pseudodeepe Sprüche für kleine Mädchen speichert ",
       filterChat: true,
