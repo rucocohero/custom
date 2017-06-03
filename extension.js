@@ -49,7 +49,7 @@
       botName: "Kollegah der BOT",
       language: "english",
       chatLink: "https://rawgit.com/basicBot/source/master/lang/en.json",
-      scriptLink: "https://rawgit.com/basicBot/source/master/basicBot.js",
+      scriptLink: "https://rawgit.com/rucocohero/source/master/basicBot.js",
       roomLock: false, // Requires an extension to re-load the script
       startupCap: 50, // 1-200
       startupVolume: 0, // 0-100
